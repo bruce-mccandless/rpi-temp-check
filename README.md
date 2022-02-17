@@ -4,5 +4,5 @@ A little c++ app to peg all cpu cores to increase board temp. How how high can i
 # Installation:
 1. Clone the repo
 2. Compile -> 
-   g++ primes.cpp -lpthread
+   g++ -o primes primes.cpp -lpthread
 3. Get roasting!
